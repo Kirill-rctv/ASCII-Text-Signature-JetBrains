@@ -1,1 +1,12 @@
-https://stepik.org/media/attachments/lesson/226140/demonstration.mp4
+# ASCII Text Signature
+
+Утилита для написания ASCII ......
+
+## Запуск
+```
+kotlinc ....
+
+## Пример
+....
+<пример вывода
+```
