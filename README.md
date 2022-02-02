@@ -6,7 +6,7 @@ Primitive ASCII generator, that can make a badge with your name and status using
 ```
 $ java -jar main.jar
 
-## A b
+### A b
 long participant
 '''
 <Enter name and surname: A b
